@@ -1,7 +1,7 @@
 # Import necessary libraries
 import streamlit as st                          # For creating interactive web app UI
 import pandas as pd                             # For data handling and analysis
-import matplotlib.pyplot as plt                 # For plotting graphs
+import matplotlib as plt                 # For plotting graphs
 import seaborn as sns                           # For making beautiful heatmap visuals
 import os                                       # For accessing environment variables
 from openai import OpenAI                       # <-- Updated to OpenAI API (new line)
