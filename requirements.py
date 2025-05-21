@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+matplotlib
+prophet
+openai
+python-dotenv
+openpyxl
+streamlit
+pandas
+matplotlib
+seaborn
+openai
+python-dotenv
+openai
